@@ -1,0 +1,88 @@
+        html {
+            background-image: url("imgs/2.png");
+            color: white;
+            font-family: Palatino;
+            margin: auto;
+
+        }
+        img {
+            display: block;
+            width: 90%;
+            height: 20%;
+            margin: auto;
+            padding: 10px;
+            border-radius: 0px 600px;
+            background: blue;
+        }
+        h4 {
+            color: white;
+            background-image: url("imgs/13.jpg");
+            border-style: double;
+            border-width: 10px;
+            width: 30%;
+            position: absolute;
+            left: 35%;
+            border-color: white;
+            border-radius: 30px 30px;
+            margin-top: 50px;
+            padding-top: 0px;
+            padding-bottom: 0px;            
+        }
+        h1 {
+            text-align: center;
+            color: white;
+            padding-top: 55px;
+            font-family: Georgia;
+        }
+        p {
+            text-align: center;
+            font-family: ComicSansMS;
+        }
+        ol {
+            background-image: url("imgs/13.jpg");
+            border-style: double;
+            border-width: 10px;
+            margin-left: 75px;
+            margin-right: 75px;
+            border-color: white;
+            padding: 30px;
+            border-radius: 30px 30px;
+            margin-top: 50px;
+            padding-top: 0px;
+            padding-bottom: 0px;
+
+        }
+        body {
+            margin: 0;
+            text-align: center;
+        }
+        .shred {
+            background-image: url("imgs/15.gif");
+            padding-top: 1px;
+            color: darkblue;
+        }
+        .links {
+            margin: auto;
+            text-align: center;
+            background-image: url("imgs/13.jpg");
+            border-style: double;
+            border-width: 10px;
+            width: 70%;
+            display: block;
+            padding: 10px;
+            border-radius: 70px 70px;
+        }
+        .title {
+            background-image: url("imgs/15.gif");
+            border-style: double;
+            border-width: 1px;  
+            margin: auto; 
+            color: darkblue; 
+            font-size: 1em;
+            margin-left: -16px;
+            margin-right: -16px;   
+        }
+        .page1 {
+            margin-top: 1px;
+        }
+        
